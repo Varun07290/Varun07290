@@ -17,6 +17,5 @@ Leadership:
 Research:
 - Optimal Slope Selection Problem
     - Computational Geometry Research w/ Professor Boris Aronov
-
 - NYU FAMS Research Lab
     - Soft Robotics Pressure Sensor Research w/ Professor Rui Li
