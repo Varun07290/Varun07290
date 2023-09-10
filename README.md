@@ -13,10 +13,10 @@ Leadership:
 - VP Of Development @ NYU Blockchain and Fintech
     - Spring '23 - Built a NFT Collection and ERC-20 Token
     - Fall '23 - Builiding a Poker dApp on Coinbase L2 Base
+ 
 Research:
 - Optimal Slope Selection Problem
-    - W/ Professor Boris Aronov
-    - Computational Geometry
+    - Computational Geometry Research w/ Professor Boris Aronov
+
 - NYU FAMS Research Lab
-    - Soft Robotics Pressure Sensor Research
-    - W/ Professor Rui Li
+    - Soft Robotics Pressure Sensor Research w/ Professor Rui Li
