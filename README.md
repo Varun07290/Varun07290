@@ -19,3 +19,7 @@ Research:
     - Computational Geometry Research w/ Professor Boris Aronov
 - NYU FAMS Research Lab
     - Soft Robotics Pressure Sensor Research w/ Professor Rui Li
+ 
+
+
+Check out my Portfolio @ https://varun07290.github.io for a more detailed breakdown
