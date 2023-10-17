@@ -12,7 +12,7 @@ Leadership:
     - Teaching CS-1114, 1134, 2124 (Intro, Data Structures, OOP)
 - VP Of Development @ NYU Blockchain and Fintech
     - Spring '23 - Built a NFT Collection and ERC-20 Token
-    - Fall '23 - Builiding a Poker dApp on Coinbase L2 Base
+    - Fall '23 - Builiding a Poker dApp
  
 Research:
 - Optimal Slope Selection Problem
