@@ -3,7 +3,7 @@
 My name is Varun Aravapalli and I'm currently a student at New York University studying Computer Science with minors in Math and Data Science. I'm currently a senior graduating in May 2024
 
 Internships:
-- Summer 2024 Investment Data Associate @ Balyasny Asset Management
+- Summer 2024 Data Science Summer Associate @ Balyasny Asset Management
 - Summer 2023 SWE Intern @ Barclays Investment Bank
 - Spring 2023 SWE Intern @ Numina
 - Summer 2022 Data Science Intern @ Amnesia Media
